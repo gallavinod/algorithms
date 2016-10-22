@@ -1,5 +1,7 @@
-import java.util.Map;
+package algorithms.tree.trie;
+
 import java.util.HashMap;
+import java.util.Map;
 
 public class TrieNode {
 	
